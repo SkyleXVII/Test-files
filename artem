@@ -1,0 +1,7 @@
+1. cd ~
+2. ls -la
+3. cat (.bash_history)
+   tac
+4. touch filename
+5. nano filename
+6. ctrl+c
